@@ -1,0 +1,7 @@
+./datasets/reserve-not used/*
+./datasets/used-data/*
+./config.py
+datasets/reserve-not used/*
+datasets/used-data/*
+config.py
+__pycache__/*
