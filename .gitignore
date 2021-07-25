@@ -4,4 +4,5 @@
 datasets/reserve-not used/*
 datasets/used-data/*
 config.py
+config.json
 __pycache__/*
